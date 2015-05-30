@@ -6,4 +6,4 @@ Git tracks changes of files.
 git push test
 Creating a new branch is quick and simple.
 --no-ff
----fast forward
+---fast forwar22
